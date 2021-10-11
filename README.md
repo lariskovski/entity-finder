@@ -1,1 +1,3 @@
-# entity-finder
+# Entity Finder
+
+``pip install -e .``
